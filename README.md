@@ -1,4 +1,4 @@
-# mika-desktop
+# mika-desktop v.0.0
 Mini MIKA desktop for OOPC# Project.
 
 
