@@ -1,6 +1,6 @@
-﻿namespace mika_desktop
+﻿namespace mika_desktop.Absensi
 {
-    partial class Form1
+    partial class AbsensiForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,20 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // Form1
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(108, 77);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(58, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Ini Absensi";
+            // 
+            // AbsensiForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
-            this.Text = "MIKA";
+            this.ClientSize = new System.Drawing.Size(1200, 729);
+            this.Controls.Add(this.label1);
+            this.Name = "AbsensiForm";
+            this.Text = "Absensi";
+            this.Load += new System.EventHandler(this.AbsensiForm_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
     }
 }
-

@@ -1,0 +1,13 @@
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
