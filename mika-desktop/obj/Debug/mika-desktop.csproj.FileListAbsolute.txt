@@ -11,3 +11,16 @@ C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_deskto
 C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
 C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
 C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
