@@ -1,13 +1,8 @@
 ﻿using mika_desktop.Absensi;
 using mika_desktop.Profile;
+using mika_desktop.Mhs;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace mika_desktop
@@ -16,6 +11,7 @@ namespace mika_desktop
     {
         private ProfileForm profileForm;
         private AbsensiForm absensiForm;
+        private MhsForm mhsForm;
 
         private Button btnMahasiswa;
         private Button btnDosen;
@@ -26,6 +22,17 @@ namespace mika_desktop
 
         private int role;
         private int selected = 0;
+
+        /*
+         *  Variable 'selected' is used to give each menu an index
+         *  Profile = 1
+         *  Absensi = 2
+         *  Nilai = 3
+         *  Mahasiswa = 4
+         *  Dosen = 5
+         *  Mata Kuliah = 6
+         * 
+         */
 
         public BaseForm(int role)
         {
@@ -195,7 +202,15 @@ namespace mika_desktop
 
         private void btnMahasiswa_Click(object sender, EventArgs e)
         {
-           
+            if (selected != 4)
+            {
+                closeCurrentForm();
+
+                mhsForm = new MhsForm();
+                selected = 4;
+                mhsForm.MdiParent = this;
+                mhsForm.Show();
+            }
         }
 
         private void btnDosen_Click(object sender, EventArgs e)
@@ -218,6 +233,11 @@ namespace mika_desktop
             if (selected == 2)
             {
                 absensiForm.Hide();
+            }
+
+            if (selected == 4)
+            {
+
             }
         }
 

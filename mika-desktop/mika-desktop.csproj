@@ -68,6 +68,18 @@
     <Compile Include="Login\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mhs\AddMhsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mhs\AddMhsForm.Designer.cs">
+      <DependentUpon>AddMhsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mhs\MhsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mhs\MhsForm.Designer.cs">
+      <DependentUpon>MhsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Profile\ProfileForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +96,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mhs\AddMhsForm.resx">
+      <DependentUpon>AddMhsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mhs\MhsForm.resx">
+      <DependentUpon>MhsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Profile\ProfileForm.resx">
       <DependentUpon>ProfileForm.cs</DependentUpon>
@@ -124,7 +142,6 @@
   <ItemGroup>
     <Folder Include="Dosen\" />
     <Folder Include="Matkul\" />
-    <Folder Include="Mhs\" />
     <Folder Include="Nilai\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

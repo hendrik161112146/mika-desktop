@@ -24,3 +24,5 @@ D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mi
 D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
 D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
 D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
