@@ -111,18 +111,11 @@
             this.uamhs2 = new System.Windows.Forms.TextBox();
             this.label49 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
-<<<<<<< HEAD
             this.btnsimpanMhs = new System.Windows.Forms.Button();
             this.fotoMhs = new System.Windows.Forms.PictureBox();
             this.btnresetMhs = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.btnselesaiMhs = new System.Windows.Forms.Button();
-=======
-            this.simpan = new System.Windows.Forms.Button();
-            this.fotoMhs = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -165,11 +158,7 @@
             this.profmhs1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs1.Location = new System.Drawing.Point(10, 55);
             this.profmhs1.Name = "profmhs1";
-<<<<<<< HEAD
             this.profmhs1.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs1.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs1.TabIndex = 21;
             // 
             // profmhs10
@@ -177,11 +166,7 @@
             this.profmhs10.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs10.Location = new System.Drawing.Point(10, 570);
             this.profmhs10.Name = "profmhs10";
-<<<<<<< HEAD
             this.profmhs10.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs10.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs10.TabIndex = 20;
             // 
             // label10
@@ -191,11 +176,7 @@
             this.label10.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label10.Location = new System.Drawing.Point(5, 549);
             this.label10.Name = "label10";
-<<<<<<< HEAD
             this.label10.Size = new System.Drawing.Size(154, 35);
-=======
-            this.label10.Size = new System.Drawing.Size(93, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label10.TabIndex = 19;
             this.label10.Text = "Nomor HP";
             // 
@@ -204,11 +185,7 @@
             this.profmhs9.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs9.Location = new System.Drawing.Point(10, 514);
             this.profmhs9.Name = "profmhs9";
-<<<<<<< HEAD
             this.profmhs9.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs9.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs9.TabIndex = 18;
             // 
             // label8
@@ -218,11 +195,7 @@
             this.label8.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label8.Location = new System.Drawing.Point(5, 493);
             this.label8.Name = "label8";
-<<<<<<< HEAD
             this.label8.Size = new System.Drawing.Size(155, 35);
-=======
-            this.label8.Size = new System.Drawing.Size(93, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label8.TabIndex = 17;
             this.label8.Text = "NPWP Ibu";
             // 
@@ -231,11 +204,7 @@
             this.profmhs8.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs8.Location = new System.Drawing.Point(10, 458);
             this.profmhs8.Name = "profmhs8";
-<<<<<<< HEAD
             this.profmhs8.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs8.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs8.TabIndex = 16;
             // 
             // label9
@@ -245,11 +214,7 @@
             this.label9.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label9.Location = new System.Drawing.Point(5, 434);
             this.label9.Name = "label9";
-<<<<<<< HEAD
             this.label9.Size = new System.Drawing.Size(219, 35);
-=======
-            this.label9.Size = new System.Drawing.Size(133, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label9.TabIndex = 15;
             this.label9.Text = "Nomor KTP Ibu";
             // 
@@ -258,11 +223,7 @@
             this.profmhs7.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs7.Location = new System.Drawing.Point(10, 400);
             this.profmhs7.Name = "profmhs7";
-<<<<<<< HEAD
             this.profmhs7.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs7.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs7.TabIndex = 14;
             // 
             // label6
@@ -272,11 +233,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label6.Location = new System.Drawing.Point(5, 376);
             this.label6.Name = "label6";
-<<<<<<< HEAD
             this.label6.Size = new System.Drawing.Size(178, 35);
-=======
-            this.label6.Size = new System.Drawing.Size(108, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label6.TabIndex = 13;
             this.label6.Text = "NPWP Ayah";
             // 
@@ -285,11 +242,7 @@
             this.profmhs6.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs6.Location = new System.Drawing.Point(10, 341);
             this.profmhs6.Name = "profmhs6";
-<<<<<<< HEAD
             this.profmhs6.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs6.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs6.TabIndex = 12;
             // 
             // label7
@@ -299,11 +252,7 @@
             this.label7.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label7.Location = new System.Drawing.Point(5, 316);
             this.label7.Name = "label7";
-<<<<<<< HEAD
             this.label7.Size = new System.Drawing.Size(242, 35);
-=======
-            this.label7.Size = new System.Drawing.Size(148, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label7.TabIndex = 11;
             this.label7.Text = "Nomor KTP Ayah";
             // 
@@ -312,11 +261,7 @@
             this.profmhs5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs5.Location = new System.Drawing.Point(10, 280);
             this.profmhs5.Name = "profmhs5";
-<<<<<<< HEAD
             this.profmhs5.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs5.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs5.TabIndex = 10;
             // 
             // label4
@@ -326,11 +271,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label4.Location = new System.Drawing.Point(5, 257);
             this.label4.Name = "label4";
-<<<<<<< HEAD
             this.label4.Size = new System.Drawing.Size(69, 35);
-=======
-            this.label4.Size = new System.Drawing.Size(42, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label4.TabIndex = 9;
             this.label4.Text = "NIM";
             // 
@@ -339,11 +280,7 @@
             this.profmhs4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs4.Location = new System.Drawing.Point(10, 223);
             this.profmhs4.Name = "profmhs4";
-<<<<<<< HEAD
             this.profmhs4.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs4.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs4.TabIndex = 8;
             // 
             // label5
@@ -353,11 +290,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label5.Location = new System.Drawing.Point(5, 200);
             this.label5.Name = "label5";
-<<<<<<< HEAD
             this.label5.Size = new System.Drawing.Size(396, 35);
-=======
-            this.label5.Size = new System.Drawing.Size(239, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label5.TabIndex = 7;
             this.label5.Text = "Nomor Induk Siswa Nasional";
             // 
@@ -366,11 +299,7 @@
             this.profmhs3.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs3.Location = new System.Drawing.Point(10, 166);
             this.profmhs3.Name = "profmhs3";
-<<<<<<< HEAD
             this.profmhs3.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs3.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs3.TabIndex = 6;
             // 
             // label3
@@ -380,11 +309,7 @@
             this.label3.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label3.Location = new System.Drawing.Point(5, 144);
             this.label3.Name = "label3";
-<<<<<<< HEAD
             this.label3.Size = new System.Drawing.Size(171, 35);
-=======
-            this.label3.Size = new System.Drawing.Size(104, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label3.TabIndex = 5;
             this.label3.Text = "Nomor KTP";
             // 
@@ -393,11 +318,7 @@
             this.profmhs2.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.profmhs2.Location = new System.Drawing.Point(10, 110);
             this.profmhs2.Name = "profmhs2";
-<<<<<<< HEAD
             this.profmhs2.Size = new System.Drawing.Size(187, 46);
-=======
-            this.profmhs2.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.profmhs2.TabIndex = 4;
             // 
             // label2
@@ -407,11 +328,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label2.Location = new System.Drawing.Point(5, 86);
             this.label2.Name = "label2";
-<<<<<<< HEAD
             this.label2.Size = new System.Drawing.Size(106, 35);
-=======
-            this.label2.Size = new System.Drawing.Size(64, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label2.TabIndex = 3;
             this.label2.Text = "Alamat";
             // 
@@ -422,11 +339,7 @@
             this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label1.Location = new System.Drawing.Point(5, 31);
             this.label1.Name = "label1";
-<<<<<<< HEAD
             this.label1.Size = new System.Drawing.Size(94, 35);
-=======
-            this.label1.Size = new System.Drawing.Size(57, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label1.TabIndex = 1;
             this.label1.Text = "Nama";
             // 
@@ -464,11 +377,7 @@
             this.dpmhs1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs1.Location = new System.Drawing.Point(9, 53);
             this.dpmhs1.Name = "dpmhs1";
-<<<<<<< HEAD
             this.dpmhs1.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs1.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs1.TabIndex = 21;
             // 
             // dpmhs4
@@ -480,11 +389,7 @@
             "Perempuan"});
             this.dpmhs4.Location = new System.Drawing.Point(9, 223);
             this.dpmhs4.Name = "dpmhs4";
-<<<<<<< HEAD
             this.dpmhs4.Size = new System.Drawing.Size(188, 46);
-=======
-            this.dpmhs4.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs4.TabIndex = 45;
             // 
             // dpmhs3
@@ -500,11 +405,7 @@
             "Konghucu"});
             this.dpmhs3.Location = new System.Drawing.Point(9, 166);
             this.dpmhs3.Name = "dpmhs3";
-<<<<<<< HEAD
             this.dpmhs3.Size = new System.Drawing.Size(188, 46);
-=======
-            this.dpmhs3.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs3.TabIndex = 44;
             // 
             // dpmhs10
@@ -512,11 +413,7 @@
             this.dpmhs10.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs10.Location = new System.Drawing.Point(10, 570);
             this.dpmhs10.Name = "dpmhs10";
-<<<<<<< HEAD
             this.dpmhs10.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs10.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs10.TabIndex = 43;
             // 
             // dpmhs2
@@ -524,11 +421,7 @@
             this.dpmhs2.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs2.Location = new System.Drawing.Point(10, 107);
             this.dpmhs2.Name = "dpmhs2";
-<<<<<<< HEAD
             this.dpmhs2.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs2.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs2.TabIndex = 41;
             // 
             // label20
@@ -538,11 +431,7 @@
             this.label20.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label20.Location = new System.Drawing.Point(5, 31);
             this.label20.Name = "label20";
-<<<<<<< HEAD
             this.label20.Size = new System.Drawing.Size(188, 35);
-=======
-            this.label20.Size = new System.Drawing.Size(114, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label20.TabIndex = 22;
             this.label20.Text = "Tempat Lahir";
             // 
@@ -553,11 +442,7 @@
             this.label11.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label11.Location = new System.Drawing.Point(5, 548);
             this.label11.Name = "label11";
-<<<<<<< HEAD
             this.label11.Size = new System.Drawing.Size(195, 35);
-=======
-            this.label11.Size = new System.Drawing.Size(119, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label11.TabIndex = 39;
             this.label11.Text = "Mulai Bekerja";
             // 
@@ -566,11 +451,7 @@
             this.dpmhs9.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs9.Location = new System.Drawing.Point(10, 514);
             this.dpmhs9.Name = "dpmhs9";
-<<<<<<< HEAD
             this.dpmhs9.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs9.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs9.TabIndex = 38;
             // 
             // label19
@@ -580,11 +461,7 @@
             this.label19.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label19.Location = new System.Drawing.Point(5, 86);
             this.label19.Name = "label19";
-<<<<<<< HEAD
             this.label19.Size = new System.Drawing.Size(196, 35);
-=======
-            this.label19.Size = new System.Drawing.Size(119, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label19.TabIndex = 23;
             this.label19.Text = "Tanggal Lahir";
             // 
@@ -595,11 +472,7 @@
             this.label12.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label12.Location = new System.Drawing.Point(5, 493);
             this.label12.Name = "label12";
-<<<<<<< HEAD
             this.label12.Size = new System.Drawing.Size(120, 35);
-=======
-            this.label12.Size = new System.Drawing.Size(74, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label12.TabIndex = 37;
             this.label12.Text = "Jabatan";
             // 
@@ -608,11 +481,7 @@
             this.dpmhs8.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs8.Location = new System.Drawing.Point(10, 458);
             this.dpmhs8.Name = "dpmhs8";
-<<<<<<< HEAD
             this.dpmhs8.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs8.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs8.TabIndex = 36;
             // 
             // label18
@@ -622,11 +491,7 @@
             this.label18.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label18.Location = new System.Drawing.Point(5, 144);
             this.label18.Name = "label18";
-<<<<<<< HEAD
             this.label18.Size = new System.Drawing.Size(108, 35);
-=======
-            this.label18.Size = new System.Drawing.Size(65, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label18.TabIndex = 25;
             this.label18.Text = "Agama";
             // 
@@ -637,11 +502,7 @@
             this.label13.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label13.Location = new System.Drawing.Point(5, 434);
             this.label13.Name = "label13";
-<<<<<<< HEAD
             this.label13.Size = new System.Drawing.Size(384, 35);
-=======
-            this.label13.Size = new System.Drawing.Size(234, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label13.TabIndex = 35;
             this.label13.Text = "Nomor Telepon Perusahaan";
             // 
@@ -650,11 +511,7 @@
             this.dpmhs7.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs7.Location = new System.Drawing.Point(10, 400);
             this.dpmhs7.Name = "dpmhs7";
-<<<<<<< HEAD
             this.dpmhs7.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs7.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs7.TabIndex = 34;
             // 
             // label17
@@ -664,11 +521,7 @@
             this.label17.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label17.Location = new System.Drawing.Point(5, 200);
             this.label17.Name = "label17";
-<<<<<<< HEAD
             this.label17.Size = new System.Drawing.Size(201, 35);
-=======
-            this.label17.Size = new System.Drawing.Size(121, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label17.TabIndex = 27;
             this.label17.Text = "Jenis Kelamin";
             // 
@@ -679,11 +532,7 @@
             this.label14.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label14.Location = new System.Drawing.Point(5, 376);
             this.label14.Name = "label14";
-<<<<<<< HEAD
             this.label14.Size = new System.Drawing.Size(274, 35);
-=======
-            this.label14.Size = new System.Drawing.Size(166, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label14.TabIndex = 33;
             this.label14.Text = "Alamat Perusahaan";
             // 
@@ -692,11 +541,7 @@
             this.dpmhs6.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs6.Location = new System.Drawing.Point(10, 341);
             this.dpmhs6.Name = "dpmhs6";
-<<<<<<< HEAD
             this.dpmhs6.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs6.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs6.TabIndex = 32;
             // 
             // label16
@@ -706,11 +551,7 @@
             this.label16.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label16.Location = new System.Drawing.Point(5, 257);
             this.label16.Name = "label16";
-<<<<<<< HEAD
             this.label16.Size = new System.Drawing.Size(304, 35);
-=======
-            this.label16.Size = new System.Drawing.Size(186, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label16.TabIndex = 29;
             this.label16.Text = "Pekerjaan Mahasiswa";
             // 
@@ -721,11 +562,7 @@
             this.label15.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label15.Location = new System.Drawing.Point(5, 316);
             this.label15.Name = "label15";
-<<<<<<< HEAD
             this.label15.Size = new System.Drawing.Size(179, 35);
-=======
-            this.label15.Size = new System.Drawing.Size(109, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label15.TabIndex = 31;
             this.label15.Text = "Jenis Usaha";
             // 
@@ -734,11 +571,7 @@
             this.dpmhs5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dpmhs5.Location = new System.Drawing.Point(10, 280);
             this.dpmhs5.Name = "dpmhs5";
-<<<<<<< HEAD
             this.dpmhs5.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dpmhs5.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dpmhs5.TabIndex = 30;
             // 
             // groupBox3
@@ -777,11 +610,7 @@
             "Tidak Aktif"});
             this.hamhs9.Location = new System.Drawing.Point(9, 514);
             this.hamhs9.Name = "hamhs9";
-<<<<<<< HEAD
             this.hamhs9.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs9.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs9.TabIndex = 47;
             // 
             // hamhs6
@@ -799,11 +628,7 @@
             "Akuntansi Perpajakan"});
             this.hamhs6.Location = new System.Drawing.Point(10, 341);
             this.hamhs6.Name = "hamhs6";
-<<<<<<< HEAD
             this.hamhs6.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs6.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs6.TabIndex = 46;
             // 
             // hamhs5
@@ -815,11 +640,7 @@
             "Sore"});
             this.hamhs5.Location = new System.Drawing.Point(9, 283);
             this.hamhs5.Name = "hamhs5";
-<<<<<<< HEAD
             this.hamhs5.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs5.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs5.TabIndex = 45;
             // 
             // hamhs4
@@ -834,11 +655,7 @@
             "E"});
             this.hamhs4.Location = new System.Drawing.Point(9, 223);
             this.hamhs4.Name = "hamhs4";
-<<<<<<< HEAD
             this.hamhs4.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs4.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs4.TabIndex = 44;
             // 
             // hamhs3
@@ -853,11 +670,7 @@
             "Manajemen"});
             this.hamhs3.Location = new System.Drawing.Point(10, 166);
             this.hamhs3.Name = "hamhs3";
-<<<<<<< HEAD
             this.hamhs3.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs3.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs3.TabIndex = 43;
             // 
             // hamhs2
@@ -875,11 +688,7 @@
             "I"});
             this.hamhs2.Location = new System.Drawing.Point(10, 110);
             this.hamhs2.Name = "hamhs2";
-<<<<<<< HEAD
             this.hamhs2.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs2.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs2.TabIndex = 42;
             // 
             // hamhs1
@@ -898,11 +707,7 @@
             "2010-2011"});
             this.hamhs1.Location = new System.Drawing.Point(9, 55);
             this.hamhs1.Name = "hamhs1";
-<<<<<<< HEAD
             this.hamhs1.Size = new System.Drawing.Size(188, 46);
-=======
-            this.hamhs1.Size = new System.Drawing.Size(188, 31);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs1.TabIndex = 41;
             // 
             // label22
@@ -912,11 +717,7 @@
             this.label22.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label22.Location = new System.Drawing.Point(5, 493);
             this.label22.Name = "label22";
-<<<<<<< HEAD
             this.label22.Size = new System.Drawing.Size(99, 35);
-=======
-            this.label22.Size = new System.Drawing.Size(61, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label22.TabIndex = 37;
             this.label22.Text = "Status";
             // 
@@ -925,11 +726,7 @@
             this.hamhs8.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hamhs8.Location = new System.Drawing.Point(10, 458);
             this.hamhs8.Name = "hamhs8";
-<<<<<<< HEAD
             this.hamhs8.Size = new System.Drawing.Size(187, 46);
-=======
-            this.hamhs8.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs8.TabIndex = 36;
             // 
             // label23
@@ -939,11 +736,7 @@
             this.label23.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label23.Location = new System.Drawing.Point(5, 434);
             this.label23.Name = "label23";
-<<<<<<< HEAD
             this.label23.Size = new System.Drawing.Size(168, 35);
-=======
-            this.label23.Size = new System.Drawing.Size(101, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label23.TabIndex = 35;
             this.label23.Text = "Dosen Wali";
             // 
@@ -952,11 +745,7 @@
             this.hamhs7.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hamhs7.Location = new System.Drawing.Point(10, 400);
             this.hamhs7.Name = "hamhs7";
-<<<<<<< HEAD
             this.hamhs7.Size = new System.Drawing.Size(187, 46);
-=======
-            this.hamhs7.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.hamhs7.TabIndex = 34;
             // 
             // label24
@@ -966,11 +755,7 @@
             this.label24.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label24.Location = new System.Drawing.Point(5, 376);
             this.label24.Name = "label24";
-<<<<<<< HEAD
             this.label24.Size = new System.Drawing.Size(42, 35);
-=======
-            this.label24.Size = new System.Drawing.Size(26, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label24.TabIndex = 33;
             this.label24.Text = "IP";
             // 
@@ -981,11 +766,7 @@
             this.label25.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label25.Location = new System.Drawing.Point(5, 316);
             this.label25.Name = "label25";
-<<<<<<< HEAD
             this.label25.Size = new System.Drawing.Size(157, 35);
-=======
-            this.label25.Size = new System.Drawing.Size(95, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label25.TabIndex = 31;
             this.label25.Text = "Peminatan";
             // 
@@ -996,11 +777,7 @@
             this.label26.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label26.Location = new System.Drawing.Point(5, 257);
             this.label26.Name = "label26";
-<<<<<<< HEAD
             this.label26.Size = new System.Drawing.Size(192, 35);
-=======
-            this.label26.Size = new System.Drawing.Size(115, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label26.TabIndex = 29;
             this.label26.Text = "Waktu Kuliah";
             // 
@@ -1011,11 +788,7 @@
             this.label27.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label27.Location = new System.Drawing.Point(5, 200);
             this.label27.Name = "label27";
-<<<<<<< HEAD
             this.label27.Size = new System.Drawing.Size(89, 35);
-=======
-            this.label27.Size = new System.Drawing.Size(55, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label27.TabIndex = 27;
             this.label27.Text = "Kelas";
             // 
@@ -1026,11 +799,7 @@
             this.label28.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label28.Location = new System.Drawing.Point(5, 144);
             this.label28.Name = "label28";
-<<<<<<< HEAD
             this.label28.Size = new System.Drawing.Size(206, 35);
-=======
-            this.label28.Size = new System.Drawing.Size(124, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label28.TabIndex = 25;
             this.label28.Text = "Program Studi";
             // 
@@ -1041,11 +810,7 @@
             this.label29.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label29.Location = new System.Drawing.Point(5, 90);
             this.label29.Name = "label29";
-<<<<<<< HEAD
             this.label29.Size = new System.Drawing.Size(141, 35);
-=======
-            this.label29.Size = new System.Drawing.Size(86, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label29.TabIndex = 23;
             this.label29.Text = "Semester";
             // 
@@ -1056,11 +821,7 @@
             this.label30.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label30.Location = new System.Drawing.Point(5, 31);
             this.label30.Name = "label30";
-<<<<<<< HEAD
             this.label30.Size = new System.Drawing.Size(189, 35);
-=======
-            this.label30.Size = new System.Drawing.Size(115, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label30.TabIndex = 22;
             this.label30.Text = "Tahun Ajaran";
             // 
@@ -1091,11 +852,7 @@
             this.dkmhs5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs5.Location = new System.Drawing.Point(8, 280);
             this.dkmhs5.Name = "dkmhs5";
-<<<<<<< HEAD
             this.dkmhs5.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs5.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs5.TabIndex = 46;
             // 
             // dkmhs4
@@ -1104,11 +861,7 @@
             this.dkmhs4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs4.Location = new System.Drawing.Point(9, 220);
             this.dkmhs4.Name = "dkmhs4";
-<<<<<<< HEAD
             this.dkmhs4.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs4.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs4.TabIndex = 45;
             // 
             // dkmhs3
@@ -1117,11 +870,7 @@
             this.dkmhs3.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs3.Location = new System.Drawing.Point(9, 166);
             this.dkmhs3.Name = "dkmhs3";
-<<<<<<< HEAD
             this.dkmhs3.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs3.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs3.TabIndex = 44;
             // 
             // dkmhs2
@@ -1130,11 +879,7 @@
             this.dkmhs2.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs2.Location = new System.Drawing.Point(8, 107);
             this.dkmhs2.Name = "dkmhs2";
-<<<<<<< HEAD
             this.dkmhs2.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs2.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs2.TabIndex = 43;
             // 
             // dkmhs1
@@ -1142,11 +887,7 @@
             this.dkmhs1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs1.Location = new System.Drawing.Point(9, 55);
             this.dkmhs1.Name = "dkmhs1";
-<<<<<<< HEAD
             this.dkmhs1.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs1.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs1.TabIndex = 42;
             // 
             // dkmhs6
@@ -1154,11 +895,7 @@
             this.dkmhs6.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dkmhs6.Location = new System.Drawing.Point(9, 341);
             this.dkmhs6.Name = "dkmhs6";
-<<<<<<< HEAD
             this.dkmhs6.Size = new System.Drawing.Size(187, 46);
-=======
-            this.dkmhs6.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.dkmhs6.TabIndex = 32;
             // 
             // label35
@@ -1168,11 +905,7 @@
             this.label35.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label35.Location = new System.Drawing.Point(4, 316);
             this.label35.Name = "label35";
-<<<<<<< HEAD
             this.label35.Size = new System.Drawing.Size(243, 35);
-=======
-            this.label35.Size = new System.Drawing.Size(148, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label35.TabIndex = 31;
             this.label35.Text = "History Potongan";
             // 
@@ -1183,11 +916,7 @@
             this.label36.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label36.Location = new System.Drawing.Point(4, 254);
             this.label36.Name = "label36";
-<<<<<<< HEAD
             this.label36.Size = new System.Drawing.Size(149, 35);
-=======
-            this.label36.Size = new System.Drawing.Size(90, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label36.TabIndex = 29;
             this.label36.Text = "Cicilan - 4";
             // 
@@ -1198,11 +927,7 @@
             this.label37.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label37.Location = new System.Drawing.Point(4, 200);
             this.label37.Name = "label37";
-<<<<<<< HEAD
             this.label37.Size = new System.Drawing.Size(149, 35);
-=======
-            this.label37.Size = new System.Drawing.Size(90, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label37.TabIndex = 27;
             this.label37.Text = "Cicilan - 3";
             // 
@@ -1213,11 +938,7 @@
             this.label38.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label38.Location = new System.Drawing.Point(4, 144);
             this.label38.Name = "label38";
-<<<<<<< HEAD
             this.label38.Size = new System.Drawing.Size(149, 35);
-=======
-            this.label38.Size = new System.Drawing.Size(90, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label38.TabIndex = 25;
             this.label38.Text = "Cicilan - 2";
             // 
@@ -1228,11 +949,7 @@
             this.label39.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label39.Location = new System.Drawing.Point(4, 89);
             this.label39.Name = "label39";
-<<<<<<< HEAD
             this.label39.Size = new System.Drawing.Size(149, 35);
-=======
-            this.label39.Size = new System.Drawing.Size(90, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label39.TabIndex = 23;
             this.label39.Text = "Cicilan - 1";
             // 
@@ -1243,11 +960,7 @@
             this.label40.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label40.Location = new System.Drawing.Point(4, 31);
             this.label40.Name = "label40";
-<<<<<<< HEAD
             this.label40.Size = new System.Drawing.Size(239, 35);
-=======
-            this.label40.Size = new System.Drawing.Size(144, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label40.TabIndex = 22;
             this.label40.Text = "Nomor Rekening";
             // 
@@ -1274,11 +987,7 @@
             this.uamhs1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uamhs1.Location = new System.Drawing.Point(9, 52);
             this.uamhs1.Name = "uamhs1";
-<<<<<<< HEAD
             this.uamhs1.Size = new System.Drawing.Size(187, 46);
-=======
-            this.uamhs1.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.uamhs1.TabIndex = 41;
             // 
             // uamhs4
@@ -1286,11 +995,7 @@
             this.uamhs4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uamhs4.Location = new System.Drawing.Point(10, 223);
             this.uamhs4.Name = "uamhs4";
-<<<<<<< HEAD
             this.uamhs4.Size = new System.Drawing.Size(187, 46);
-=======
-            this.uamhs4.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.uamhs4.TabIndex = 28;
             // 
             // label47
@@ -1300,11 +1005,7 @@
             this.label47.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label47.Location = new System.Drawing.Point(5, 200);
             this.label47.Name = "label47";
-<<<<<<< HEAD
             this.label47.Size = new System.Drawing.Size(99, 35);
-=======
-            this.label47.Size = new System.Drawing.Size(61, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label47.TabIndex = 27;
             this.label47.Text = "Status";
             // 
@@ -1313,11 +1014,7 @@
             this.uamhs3.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uamhs3.Location = new System.Drawing.Point(10, 166);
             this.uamhs3.Name = "uamhs3";
-<<<<<<< HEAD
             this.uamhs3.Size = new System.Drawing.Size(187, 46);
-=======
-            this.uamhs3.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.uamhs3.TabIndex = 26;
             // 
             // label48
@@ -1327,11 +1024,7 @@
             this.label48.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label48.Location = new System.Drawing.Point(5, 144);
             this.label48.Name = "label48";
-<<<<<<< HEAD
             this.label48.Size = new System.Drawing.Size(101, 35);
-=======
-            this.label48.Size = new System.Drawing.Size(62, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label48.TabIndex = 25;
             this.label48.Text = "Dosen";
             // 
@@ -1340,11 +1033,7 @@
             this.uamhs2.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uamhs2.Location = new System.Drawing.Point(10, 110);
             this.uamhs2.Name = "uamhs2";
-<<<<<<< HEAD
             this.uamhs2.Size = new System.Drawing.Size(187, 46);
-=======
-            this.uamhs2.Size = new System.Drawing.Size(187, 30);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.uamhs2.TabIndex = 24;
             // 
             // label49
@@ -1354,11 +1043,7 @@
             this.label49.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label49.Location = new System.Drawing.Point(5, 86);
             this.label49.Name = "label49";
-<<<<<<< HEAD
             this.label49.Size = new System.Drawing.Size(172, 35);
-=======
-            this.label49.Size = new System.Drawing.Size(105, 21);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.label49.TabIndex = 23;
             this.label49.Text = "Mata Kuliah";
             // 
@@ -1369,7 +1054,6 @@
             this.label50.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label50.Location = new System.Drawing.Point(5, 31);
             this.label50.Name = "label50";
-<<<<<<< HEAD
             this.label50.Size = new System.Drawing.Size(121, 35);
             this.label50.TabIndex = 22;
             this.label50.Text = "Tanggal";
@@ -1384,22 +1068,6 @@
             this.btnsimpanMhs.Text = "Simpan";
             this.btnsimpanMhs.UseVisualStyleBackColor = true;
             this.btnsimpanMhs.Click += new System.EventHandler(this.btnsimpanMhs_Click);
-=======
-            this.label50.Size = new System.Drawing.Size(74, 21);
-            this.label50.TabIndex = 22;
-            this.label50.Text = "Tanggal";
-            // 
-            // simpan
-            // 
-            this.simpan.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.simpan.Location = new System.Drawing.Point(924, 449);
-            this.simpan.Name = "simpan";
-            this.simpan.Size = new System.Drawing.Size(136, 42);
-            this.simpan.TabIndex = 8;
-            this.simpan.Text = "Simpan";
-            this.simpan.UseVisualStyleBackColor = true;
-            this.simpan.Click += new System.EventHandler(this.simpan_Click);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             // 
             // fotoMhs
             // 
@@ -1410,7 +1078,6 @@
             this.fotoMhs.TabIndex = 9;
             this.fotoMhs.TabStop = false;
             // 
-<<<<<<< HEAD
             // btnresetMhs
             // 
             this.btnresetMhs.FlatStyle = System.Windows.Forms.FlatStyle.System;
@@ -1421,17 +1088,6 @@
             this.btnresetMhs.Text = "Reset";
             this.btnresetMhs.UseVisualStyleBackColor = true;
             this.btnresetMhs.Click += new System.EventHandler(this.btnresetMhs_Click);
-=======
-            // button1
-            // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button1.Location = new System.Drawing.Point(924, 538);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(136, 42);
-            this.button1.TabIndex = 10;
-            this.button1.Text = "Reset";
-            this.button1.UseVisualStyleBackColor = true;
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             // 
             // button2
             // 
@@ -1444,7 +1100,6 @@
             this.button2.Text = "Browse";
             this.button2.UseVisualStyleBackColor = true;
             // 
-<<<<<<< HEAD
             // btnselesaiMhs
             // 
             this.btnselesaiMhs.FlatStyle = System.Windows.Forms.FlatStyle.System;
@@ -1467,18 +1122,6 @@
             this.Controls.Add(this.btnresetMhs);
             this.Controls.Add(this.fotoMhs);
             this.Controls.Add(this.btnsimpanMhs);
-=======
-            // UpdateMhsForm
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 27F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(1113, 644);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.fotoMhs);
-            this.Controls.Add(this.simpan);
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
@@ -1586,23 +1229,14 @@
         private System.Windows.Forms.ComboBox hamhs4;
         private System.Windows.Forms.ComboBox hamhs3;
         private System.Windows.Forms.ComboBox hamhs2;
-<<<<<<< HEAD
         private System.Windows.Forms.Button btnsimpanMhs;
-=======
-        private System.Windows.Forms.Button simpan;
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
         private System.Windows.Forms.TextBox dpmhs1;
         private System.Windows.Forms.TextBox profmhs10;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.TextBox profmhs1;
         private System.Windows.Forms.PictureBox fotoMhs;
-<<<<<<< HEAD
         private System.Windows.Forms.Button btnresetMhs;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnselesaiMhs;
-=======
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
     }
 }

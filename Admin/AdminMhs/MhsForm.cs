@@ -14,19 +14,12 @@ namespace mika_desktop.Mhs
 {
     public partial class MhsForm : Form
     {
-<<<<<<< HEAD
   
         private Admin.AdminMhs.UpdateMhsForm admMhs;
         private Dataset.DataSetMIKA.Mhs_profilDataTable dsprof;
         public int nomor = 0;
 
         public MhsForm()
-=======
-        private Admin.AdminMhs.UpdateMhsForm admMhs;
-        private Dataset.DataSetMIKA.Mhs_profilDataTable dsprof;
-
-        public MhsForm(Dataset.DataSetMIKA.Mhs_profilDataTable dsprof)
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
         {
             InitializeComponent();
         }
@@ -36,10 +29,6 @@ namespace mika_desktop.Mhs
             this.FormBorderStyle = FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
         }
-<<<<<<< HEAD
-=======
-
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
         private void btnAddMhs_Click(object sender, EventArgs e)
         {
             // need to pass student's data as parameter to addMhsForm
@@ -53,7 +42,6 @@ namespace mika_desktop.Mhs
             admMhs.MdiParent = this.MdiParent;
             admMhs.Show();
         }
-<<<<<<< HEAD
         public void isidgv()
         {
             //belum ketemu cara input data secara spesifik dari multiple data set ke datagridview dengan projek yang berbeda
@@ -63,13 +51,6 @@ namespace mika_desktop.Mhs
         private void btnRefreshMhs_Click(object sender, EventArgs e)
         {
             isidgv();
-=======
-
-        private void isidgv()
-        {
-            dgvMhs.Rows.Clear();
-            DataRow[] result = dsprof
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
         }
     }
 }

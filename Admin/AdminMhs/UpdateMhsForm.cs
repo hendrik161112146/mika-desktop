@@ -7,20 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-<<<<<<< HEAD
 using mika_desktop.Admin.AdminMhs;
-=======
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
 
 namespace mika_desktop.Admin.AdminMhs
 {
     public partial class UpdateMhsForm : Form
     {
-<<<<<<< HEAD
         Dataset.DataSetMIKA.Mhs_profilDataTable dsprof;
-=======
-        Dataset.DataSetMIKA.Mhs_profilDataTable dsprof = new Dataset.DataSetMIKA.Mhs_profilDataTable();
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
         Dataset.DataSetMIKA.Mhs_dpDataTable dsdp = new Dataset.DataSetMIKA.Mhs_dpDataTable();
         Dataset.DataSetMIKA.Mhs_haDataTable dsha = new Dataset.DataSetMIKA.Mhs_haDataTable();
         Dataset.DataSetMIKA.Mhs_dkDataTable dsdk = new Dataset.DataSetMIKA.Mhs_dkDataTable();
@@ -38,16 +31,10 @@ namespace mika_desktop.Admin.AdminMhs
             this.WindowState = FormWindowState.Maximized;
         }
 
-<<<<<<< HEAD
         private void btnsimpanMhs_Click(object sender, EventArgs e)
         {
             jumlah_mhs++;
             dsprof = new Dataset.DataSetMIKA.Mhs_profilDataTable();
-=======
-        private void simpan_Click(object sender, EventArgs e)
-        {
-            jumlah_mhs++;
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
             dsprof.Rows.Add(profmhs1.Text, profmhs2.Text, profmhs3.Text, profmhs4.Text, profmhs5.Text, profmhs6.Text, profmhs7.Text, profmhs8.Text, profmhs9.Text,profmhs10.Text);
             dsdp.Rows.Add(dpmhs1.Text, dpmhs2.Text, dpmhs3, Text, dpmhs4.Text, dpmhs5.Text, dpmhs7.Text, dpmhs8.Text, dpmhs9.Text, dpmhs10.Text);
             dsha.Rows.Add(hamhs1.Text, hamhs2.Text, hamhs3.Text, hamhs4.Text, hamhs5.Text, hamhs6.Text, hamhs7.Text, hamhs8.Text, hamhs9.Text);
@@ -55,7 +42,6 @@ namespace mika_desktop.Admin.AdminMhs
             dsua.Rows.Add(uamhs1.Text, uamhs2.Text, uamhs3.Text,uamhs4.Text);
         }
 
-<<<<<<< HEAD
         private void btnselesaiMhs_Click(object sender, EventArgs e)
         {
             Hide();
@@ -69,8 +55,5 @@ namespace mika_desktop.Admin.AdminMhs
             dkmhs1.Text = ""; dkmhs2.Text = ""; dkmhs3.Text = ""; dkmhs4.Text = ""; dkmhs5.Text = ""; dkmhs6.Text = "";
             uamhs1.Text = ""; uamhs2.Text = ""; uamhs3.Text = ""; uamhs4.Text = "";
         }
-=======
-
->>>>>>> 1bacd1b3c0a8b5445c10023ee51718dd90e2208d
     }
 }
