@@ -37,3 +37,4 @@ E:\kuliah\Visual Studio\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResou
 E:\kuliah\Visual Studio\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
 E:\kuliah\Visual Studio\mika-desktop\obj\Debug\mika-desktop.exe
 E:\kuliah\Visual Studio\mika-desktop\obj\Debug\mika-desktop.pdb
+E:\kuliah\Visual Studio\mika-desktop\obj\Debug\mika_desktop.Dosen.frmDosen.resources

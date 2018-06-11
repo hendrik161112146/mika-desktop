@@ -32,6 +32,8 @@ namespace mika_desktop.Login
             string username = tbUsername.Text;
             string password = tbPassword.Text;
 
+           
+
             if (username == "admin" && password == "admin")
             {
                 this.Hide();

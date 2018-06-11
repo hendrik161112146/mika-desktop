@@ -18,6 +18,8 @@ namespace mika_desktop.Mhs
          *
          */
 
+            // bagaimana jika bagian ini untuk output data dari dataset-dataset yang sudah ada ?
+
         public AddMhsForm()
         {
             InitializeComponent();

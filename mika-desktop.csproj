@@ -62,6 +62,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSetMIKA.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Dosen\frmDosen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dosen\frmDosen.Designer.cs">
+      <DependentUpon>frmDosen.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaseForm.resx">
       <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dosen\frmDosen.resx">
+      <DependentUpon>frmDosen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -122,7 +131,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Dosen\" />
     <Folder Include="Matkul\" />
     <Folder Include="Mhs\" />
     <Folder Include="Nilai\" />

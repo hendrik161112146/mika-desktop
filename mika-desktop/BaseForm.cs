@@ -1,6 +1,7 @@
 ﻿using mika_desktop.Absensi;
 using mika_desktop.Profile;
 using mika_desktop.Mhs;
+using mika_desktop.Admin.AdminMhs;
 using System;
 using System.Drawing;
 using System.Windows.Forms;
@@ -12,6 +13,7 @@ namespace mika_desktop
         private ProfileForm profileForm;
         private AbsensiForm absensiForm;
         private MhsForm mhsForm;
+        private Admin.AdminMhs.UpdateMhsForm admMhs;
 
         private Button btnMahasiswa;
         private Button btnDosen;
@@ -206,10 +208,11 @@ namespace mika_desktop
             {
                 closeCurrentForm();
 
-                mhsForm = new MhsForm();
-                selected = 4;
-                mhsForm.MdiParent = this;
-                mhsForm.Show();
+                 mhsForm = new MhsForm();
+                 selected = 4;
+                 mhsForm.MdiParent = this;
+                  mhsForm.Show();
+
             }
         }
 
