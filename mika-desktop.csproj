@@ -51,11 +51,20 @@
     <Compile Include="Absensi\AbsensiForm.Designer.cs">
       <DependentUpon>AbsensiForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admin\AdminMhs\UpdateMhsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminMhs\UpdateMhsForm.Designer.cs">
+      <DependentUpon>UpdateMhsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BaseForm.Designer.cs">
       <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\DataSetMIKA.cs">
+      <DependentUpon>DataSetMIKA.xsd</DependentUpon>
     </Compile>
     <Compile Include="Dataset\DataSetMIKA.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -68,6 +77,18 @@
     <Compile Include="Login\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mhs\AddMhsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mhs\AddMhsForm.Designer.cs">
+      <DependentUpon>AddMhsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminMhs\MhsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminMhs\MhsForm.Designer.cs">
+      <DependentUpon>MhsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Profile\ProfileForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,11 +100,20 @@
     <EmbeddedResource Include="Absensi\AbsensiForm.resx">
       <DependentUpon>AbsensiForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminMhs\UpdateMhsForm.resx">
+      <DependentUpon>UpdateMhsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BaseForm.resx">
       <DependentUpon>BaseForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mhs\AddMhsForm.resx">
+      <DependentUpon>AddMhsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminMhs\MhsForm.resx">
+      <DependentUpon>MhsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Profile\ProfileForm.resx">
       <DependentUpon>ProfileForm.cs</DependentUpon>
@@ -122,9 +152,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Admin\AdminDosen\" />
+    <Folder Include="Admin\AdminMatkul\" />
     <Folder Include="Dosen\" />
     <Folder Include="Matkul\" />
-    <Folder Include="Mhs\" />
     <Folder Include="Nilai\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
